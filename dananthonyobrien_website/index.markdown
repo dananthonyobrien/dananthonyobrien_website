@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Dan A. O'Brien is a writer, editor, and teacher, with a passion for texts and technology. 
+Dan A. O'Brien is a writer, editor, and teacher, with a passion for texts and technology. He has published widely and taught writing skills in Ireland and the Americas. He now works in technical writing and information development and is currently pursuing a Higher Diploma in Computer Science.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
